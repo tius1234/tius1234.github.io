@@ -6,7 +6,7 @@ redirect_from: 2018.06.25
 ---
 
 # 출처
-https://www.acmicpc.net/problem/1026
+[https://www.acmicpc.net/problem/1026](https://www.acmicpc.net/problem/1026)
 
 # 설명
 B 의 배열은 재배열 하면 안된다는 설명이 있었는데, 의도를 명확히 이해하지 못 하였다.
